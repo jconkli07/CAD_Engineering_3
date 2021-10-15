@@ -5,7 +5,7 @@
 * [](#)
 ---
 
-## Skatebaord
+## Skateboard
 
 ### Description
 
@@ -38,4 +38,3 @@
 <img src="https://github.com/jconkli07/CircuitPython/blob/bc8618933dd1df674c97ab04eacac412698359b3/Files/led%20blink.gif" width="25%" height="25%"/>
 
 ### Reflection
-
