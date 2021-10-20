@@ -15,18 +15,22 @@
 
 ### Images
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG" width="25%" height="25%"/>
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/fb0e184d702a3d2ed51e85f72c2a6a7543bf2fc9/Files/skateboard_bottom.PNG" width="25%" height="25%"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/03f45904b6f695aeb3ec011015b26b0a9300589c/Files/skateboard_top.PNG " width="25%" height="25%"/>
+
+### 2.1 Reflection
 
 
-### Reflection
+### 2.2 Reflection
+
+
+### 2.3 Reflection
+
+
+### 2.4 Reflection
 
 
 # CAD_Engineering_3
 
-## Table of Contents
-* [Skateboard](#Skateboard)
-* [](#)
----
 
 ## Skatebaord
 
