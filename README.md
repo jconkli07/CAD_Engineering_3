@@ -15,6 +15,8 @@
 
 ### Images
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG" width="25%" height="25%"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG" width="25%" height="25%"/>
+
 
 ### Reflection
 
