@@ -27,7 +27,7 @@ This assignment was more advanced and used a lot of interesting tools. The offse
 This was a pretty quick assignment. I used the revolved tool to make the wheels into a 3d shape, it revolves a sketch around a line until it is a 3d shape. Dimension diameters by dragging the box below the 2 lines until it changes into a diameter (it will have the Ø). I used diameter dimensions to change the diameter and other measurements on the wheel.
 
 ### 2.4 Reflection
-
+This assignment taught me a lot about using assemblies to assemble different parts. Inserting a part studio into an assembly inserts each part in the studio. Mate connectors create/define assembly relationships. There are many types of mates and they are used for different relationships. Going to insert>standard content allows you to insert nuts, bolts, and other basic parts. K shows/hides mates! The replicate tool makes a copy of an object and it's mates on a selected plane if it finds a matching place to put it. For example it finds all of the other nutles on the deck and puts nuts in them. I used this to copy the nuts and bolts very easily into the different hole. After this I feel very confident with using assemblies.
 
 ## Lego
 
