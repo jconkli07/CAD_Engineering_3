@@ -14,6 +14,13 @@ The assignment was to use Onshape to design a skateboard. It used a series of st
 <a href="https://cvilleschools.onshape.com/documents/288675728f45857f89d27cd0/w/37056636cad008ce294aa947/e/01700fa2b637d8478c93058f?renderMode=0&uiState=6169d83a4f1cb46215ff38fc">Link</a>
 
 ### Images
+Deck:
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
+Truck:
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
+Wheel and Bearing:
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
+Completed Assembly:
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/03f45904b6f695aeb3ec011015b26b0a9300589c/Files/skateboard_top.PNG "/>
 
