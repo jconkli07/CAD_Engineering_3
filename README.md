@@ -15,14 +15,14 @@ The assignment was to use Onshape to design a skateboard. It used a series of st
 
 ### Images
 Deck:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/78847b7a2ad38cd0dc8127cb4698f5782e5644e1/Files/deck.png"/>
 Truck:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.png"/>
 Wheel and Bearing:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.png"/>
 Completed Assembly:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/03f45904b6f695aeb3ec011015b26b0a9300589c/Files/skateboard_top.PNG "/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.png"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/03f45904b6f695aeb3ec011015b26b0a9300589c/Files/skateboard_top.png"/>
 
 ### 2.1 Reflection
 This taught me about sketches and basic extrusion. Constraints are used to define how objects in a sketch relate to each other. The hole tool is used to cut holes in existing objects. Make sure to set the merge scope to the object that you want to cut. <a href="https://www.onshape.com/en/resource-center/tech-tips/tech-tip-keyboard-shortcuts">List of onshape shortcuts</a>
