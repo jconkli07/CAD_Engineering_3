@@ -14,14 +14,14 @@ The assignment was to use Onshape to design a skateboard. It used a series of st
 <a href="https://cvilleschools.onshape.com/documents/288675728f45857f89d27cd0/w/37056636cad008ce294aa947/e/01700fa2b637d8478c93058f?renderMode=0&uiState=6169d83a4f1cb46215ff38fc">Link</a>
 
 ### Images
-Deck:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/78847b7a2ad38cd0dc8127cb4698f5782e5644e1/Files/deck.png"/>
-Truck:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a4d409d7b1a6e5ba9f5447a2646428e42847c24d/Files/truck.png"/>
-Wheel and Bearing:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/b2783afd305fb7d5fa5d16511d0185845a2fa94e/Files/wheel_bearing.png"/>
-Completed Assembly:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
+Deck:  
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/78847b7a2ad38cd0dc8127cb4698f5782e5644e1/Files/deck.png"/>  
+Truck:  
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a4d409d7b1a6e5ba9f5447a2646428e42847c24d/Files/truck.png"/>  
+Wheel and Bearing:  
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/b2783afd305fb7d5fa5d16511d0185845a2fa94e/Files/wheel_bearing.png"/>  
+Completed Assembly:  
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>  
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/03f45904b6f695aeb3ec011015b26b0a9300589c/Files/skateboard_top.PNG"/>
 
 ### 2.1 Reflection
