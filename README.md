@@ -37,6 +37,8 @@ This was a pretty quick assignment. I used the revolved tool to make the wheels 
 ### 2.4 Assembly Reflection
 This assignment taught me a lot about using assemblies to assemble different parts. Inserting a part studio into an assembly inserts each part in the studio. Mate connectors create/define assembly relationships. There are many types of mates and they are used for different relationships. Going to insert>standard content allows you to insert nuts, bolts, and other basic parts. K shows/hides mates! The replicate tool makes a copy of an object and it's mates on a selected plane if it finds a matching place to put it. For example it finds all of the other nutles on the deck and puts nuts in them. I used this to copy the nuts and bolts very easily into the different hole. After this I feel very confident with using assemblies.
 
+[Back to Table of Contents](#Table-of-Contents)
+
 ## How the Pros Do It
 
 ### Description
@@ -51,6 +53,7 @@ The assignment was to design a 2x4 lego brick in Onsape.
 
 ### Reflection
 
+[Back to Table of Contents](#Table-of-Contents)
 
 ## One Brick to Rule Them All
 
@@ -66,3 +69,5 @@ The assignment was to take the 2x4 brick from 3.1 and configure it so that it ca
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/0cc089580345513713d17b227c9307c640f39894/Files/1x4xBrickxRed.png"/>
 
 ### Reflection
+
+[Back to Table of Contents](#Table-of-Contents)
