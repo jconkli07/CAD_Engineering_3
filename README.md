@@ -46,7 +46,8 @@ This assignment taught me a lot about using assemblies to assemble different par
 <a href="https://cvilleschools.onshape.com/documents/140000b1ffd88d385825de9d/w/299a53230c0b333ab9ba8638/e/9b63aca5b7b2be4813086b44?configuration=List_MExNjhXPJrqiOi%3D_1x4%3BList_mggwyziwim1nt1%3DDefault%3BList_t70Zbk08WrZfyG%3DBlue&renderMode=0&uiState=617aabc8839a2f1cf487230f">Link</a>
 
 ### Images
-<img src=""/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/bb36ed8880552fbafadda6a2dcbf06e953c9ce35/Files/brick_top.png"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/bb36ed8880552fbafadda6a2dcbf06e953c9ce35/Files/brick_bottom.png"/>
 
 ### Reflection
 
