@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Skateboard](#Skateboard)
-* [How the Pros Do It](#How_the_Pros_Do_It)
-* [One Brick to Rule Them All](#One Brick to Rule Them All)
+* [How the Pros Do It](#How-the-Pros-Do-It)
+* [One Brick to Rule Them All](#One-Brick-to-Rule-Them-All)
 ---
 
 ## Skateboard
