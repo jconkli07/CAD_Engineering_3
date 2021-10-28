@@ -40,7 +40,7 @@ This assignment taught me a lot about using assemblies to assemble different par
 ## How the Pros Do It
 
 ### Description
-
+The assignment was to design a 2x4 lego brick in Onsape.
 
 ### Evidence
 <a href="https://cvilleschools.onshape.com/documents/140000b1ffd88d385825de9d/w/299a53230c0b333ab9ba8638/e/9b63aca5b7b2be4813086b44?configuration=List_MExNjhXPJrqiOi%3D_1x4%3BList_mggwyziwim1nt1%3DDefault%3BList_t70Zbk08WrZfyG%3DBlue&renderMode=0&uiState=617aabc8839a2f1cf487230f">Link</a>
@@ -55,7 +55,7 @@ This assignment taught me a lot about using assemblies to assemble different par
 ## One Brick to Rule Them All
 
 ### Description
-
+The assignment was to take the 2x4 brick from 3.1 and configure it so that it can change color, shape, and type. I also had to configure the name of the part to reflect the color, shape, and size.
 
 ### Evidence
 <a href="https://cvilleschools.onshape.com/documents/140000b1ffd88d385825de9d/w/299a53230c0b333ab9ba8638/e/9b63aca5b7b2be4813086b44?configuration=List_MExNjhXPJrqiOi%3D_1x4%3BList_mggwyziwim1nt1%3DDefault%3BList_t70Zbk08WrZfyG%3DBlue&renderMode=0&uiState=617aabc8839a2f1cf487230f">Link</a>
