@@ -19,7 +19,7 @@ Deck:
 Truck:
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a4d409d7b1a6e5ba9f5447a2646428e42847c24d/Files/truck.png"/>
 Wheel and Bearing:
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.png"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/b2783afd305fb7d5fa5d16511d0185845a2fa94e/Files/wheel_bearing.png"/>
 Completed Assembly:
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/a18137ad70eacfc7766029234b27d21cc0639b5a/Files/skateboard_bottom.PNG"/>
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/03f45904b6f695aeb3ec011015b26b0a9300589c/Files/skateboard_top.PNG"/>
