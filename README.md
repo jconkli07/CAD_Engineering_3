@@ -9,7 +9,7 @@
 ## Skateboard
 
 ### Description
-The assignment was to use Onshape to design a skateboard. It used a series of steps to create the different parts and then assemble dhtem at the end.
+The assignment was to use Onshape to design a skateboard. It used a series of steps to create the different parts and then assemble them at the end. This assignment taught many of the basics of Onshape. It taught creating, dimensioning, and extruding sketches and importing and mating objects in assemblies. It also taught us about many of Onshape's built in tools including fillet, revolve, hole, offset, and replicate.
 
 ### Evidence
 <a href="https://cvilleschools.onshape.com/documents/288675728f45857f89d27cd0/w/37056636cad008ce294aa947/e/01700fa2b637d8478c93058f?renderMode=0&uiState=6169d83a4f1cb46215ff38fc">Onshape Document</a>
