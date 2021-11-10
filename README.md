@@ -85,5 +85,6 @@ The assignment was to import different configuarations of the brick into an asse
 <img src="https://github.com/jconkli07/CAD_Engineering_3/blob/cc7bf8b9926cd718454b29d60f74cdb13738ac3c/Files/lego_duck.PNG"/>
 
 ### Reflection
+This was a pretty simple assignment that built on our earlier knowledge of assemblies and added some new skills. The snap tool is used to create a mate that snaps two parts together. Drag one part over another part to create the mate. Within the snap mode the Q key rotates the part selected. Shortcut K toggles visiblity of mates. The center of mass is an object's balance point. It can be found by going to mass properties and then selecting the object. It will provide the x, y, and z coordinated from the origin to the center of mass. If you select a mate connector it can show the distance from that mate to the center of balance instead.
 
 [Back to Table of Contents](#Table-of-Contents)
