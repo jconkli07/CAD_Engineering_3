@@ -82,7 +82,7 @@ The assignment was to import different configuarations of the brick into an asse
 <a href="https://cvilleschools.onshape.com/documents/140000b1ffd88d385825de9d/w/299a53230c0b333ab9ba8638/e/b78cb84006abe1bfff7df305?renderMode=0&uiState=618c20d1846b426cb8244932">Onshape Document</a>
 
 ### Images
-<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/0cc089580345513713d17b227c9307c640f39894/Files/2x3xPlatexYellow.png"/>
+<img src="https://github.com/jconkli07/CAD_Engineering_3/blob/cc7bf8b9926cd718454b29d60f74cdb13738ac3c/Files/lego_duck.PNG"/>
 
 ### Reflection
 
