@@ -76,7 +76,7 @@ The assignment was to take the 2x4 brick from 3.1 and configure it so that it ca
 ## Building Blocks
 
 ### Description
-
+The assignment was to import different configuarations of the brick into an assembly and then assemble them to make a lego duck. This assignment teaches how to use the snap tool and how to import different configurations of a part. It also teaches you how to find the center of mass in an assembly.
 
 ### Evidence
 <a href="https://cvilleschools.onshape.com/documents/140000b1ffd88d385825de9d/w/299a53230c0b333ab9ba8638/e/b78cb84006abe1bfff7df305?renderMode=0&uiState=618c20d1846b426cb8244932">Onshape Document</a>
